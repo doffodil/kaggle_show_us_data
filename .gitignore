@@ -1,1 +1,5 @@
+/.idea/
+/input/
 /datasets/
+/pretrain_model/
+/model_weight/
